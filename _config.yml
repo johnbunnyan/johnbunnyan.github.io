@@ -1,10 +1,8 @@
 title: My Blog
 author: johnbunnyan
 email: jsk717543@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
+description: 재미지다.
   Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -54,7 +52,7 @@ plainwhite:
 # - about.md
 
 # Build settings
-theme: plainwhite
+# theme: plainwhite
 
 plugins:
   - jekyll-seo-tag
