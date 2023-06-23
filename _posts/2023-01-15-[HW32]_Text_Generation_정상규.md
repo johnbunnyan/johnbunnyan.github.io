@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "jupyter notebook 올리기"
-categories: deep learning
+categories: python
 tag: [python, blog, jekyll]
 toc: true
 author_profile: false
